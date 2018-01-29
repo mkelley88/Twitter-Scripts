@@ -5,13 +5,13 @@ This script was written to count tweets from Twitter between two specific dates/
 **Bugs / Changelist**
 ------------------
 
-**[v0.3 - Jan 29, 2018](Tweet_Counter.py)** (Current Version)
+**[v0.3 - Jan 29, 2018](Tweet_Counter-v0.3.py)** (Current Version)
 --------------------
 - Major changes. Much of code was replaced.
 - Now uses external file "twitter_keys.txt" to store Twitter secrets and keys.
 - Accuracy improved!
 
-**[0.1 - Jan 20, 2018](old_versions/Tweet-Counter.py)**
+**[0.1 - Jan 20, 2018](old_versions/Tweet-Counter-v0.1.py)**
 --------------------
 - It should be noted, the printout showing the date and number of tweets for that day is inaccurate.
 - Example:
